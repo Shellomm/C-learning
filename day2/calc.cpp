@@ -10,6 +10,10 @@ int main() {
     double a = 0.0;
     double b = 92.5;
     double com = 150;
+    double shp = 0;
+    for (int i = 500, i < 3000, i + 500 )
+        double shp = (i - com)/b;
+        std::cout << shp;
 
     while (true) {
 
